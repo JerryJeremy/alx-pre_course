@@ -1,3 +1,4 @@
 My first readme
-My up to date. let's do this
-And let go on
+My up to date. 
+I can do it 
+
